@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IP Test Task</string>
+    <string name="search_items">Поиск товаров</string>
+    <string name="search_icon_description">Search icon</string>
+    <string name="clear_search_button_description">Clear search button</string>
+    <string name="color_skyblue">#B1DCFB</string>
+    <string name="date_pattern">dd.MM.yyyy</string>
+    <string name="date_add">Дата добавления\n</string>
+    <string name="out_of_stock">Нет в наличии</string>
+    <string name="in_the_warehouse">На складе\n</string>
+    <string name="icon_button_delete_description">Icon button delete</string>
+    <string name="icon_button_change_description">Icon button change</string>
+    <string name="cancel">Отмена</string>
+    <string name="accept">Принять</string>
+    <string name="amount_of_product">Количество товара</string>
+    <string name="icon_settings">Icon settings</string>
+    <string name="icon_button_minus_description">Icon button minus</string>
+    <string name="icon_button_plus_description">Icon button plus</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+    <string name="delete_product">Удаление товара</string>
+    <string name="delete_warning">Вы дейтвительно хотите удалить выбранный товар?</string>
+    <string name="icon_warning">Icon warning</string>
+</resources>
