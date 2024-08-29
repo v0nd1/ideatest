@@ -1,7 +1,8 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin.android)
-    alias(libs.plugins.devtools.ksp)
+    alias(libs.plugins.jetbrains.kotlin.kapt)
+    alias(libs.plugins.jetpack.compose.compiler)
 }
 
 android {
@@ -74,7 +75,7 @@ dependencies {
     // Room
     implementation(libs.androidx.room.runtime)
     implementation(libs.androidx.room.ktx)
-    ksp(libs.androidx.room.compiler)
+    kapt(libs.androidx.room.compiler)
 
     // GSON
     implementation(libs.gson)
